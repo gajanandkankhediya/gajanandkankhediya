@@ -4,7 +4,7 @@
 📍 Jaipur, Rajasthan, India  
 📞 +91-9680864041  
 📧 gajanand.vrm@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio-link.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/gajanandkankhediya/) | [Portfolio](https://gajanand.vercel.app/portfolio)  
 
 ---
 
@@ -16,13 +16,13 @@ Experienced Full Stack Developer with **9+ years** of expertise in crafting intu
 ## 🚀 Work Experience  
 
 ### **Lead Full Stack Developer**  
-[Tagshop](https://tagshop.io) | 2023 - Present  
+[Tagshop](https://tagshop.ai) | 2023 - Present  
 - Spearheaded development of UGC platform using **React.js & Bootstrap**  
 - Architected complex UGC features with dynamic interfaces  
 - Established coding standards and mentored frontend team  
 
 ### **Full Stack Developer**  
-[Tagbox](https://tagbox.io) | 2019 - 2023  
+[Tagbox](https://tagbox.com) | 2019 - 2023  
 - Led frontend development for complete UGC suite  
 - Optimized interfaces using **React.js & Bootstrap**  
 - Mentored team members on modern frontend practices  
@@ -41,7 +41,9 @@ Webcontxt | 2017 - 2019
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/TypeScript.js-3178c6?style=flat&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Next.js-171717?style=flat&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
@@ -81,6 +83,3 @@ Webcontxt | 2017 - 2019
 ⛰️ Trekking | 🏓 Table Tennis | 🏏 Cricket  
 
 ---
-
-## GitHub Stats  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
