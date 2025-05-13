@@ -1,72 +1,86 @@
-# Gajanand Kumawat
+# Gajanand Kankhediya  
+**Full Stack Developer**  
 
 📍 Jaipur, Rajasthan, India  
-📧 gajanandkumawat2001@gmail.com  
-📞 +91 637717XXXX  
-🔗 [Portfolio](https://gajanand.vercel.app) | [GitHub](https://github.com/Gajanand-Kumawat) | [LinkedIn](https://www.linkedin.com/in/gajanand-kumawat/) | [Twitter](https://twitter.com/GajanandKumawat)
+📞 +91-9680864041  
+📧 gajanand.vrm@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio-link.com)  
 
-## 👨‍💻 Full Stack Developer (MERN & Next.js)
+---
 
-Experienced developer with expertise in building web applications using modern technologies like React, Next.js, Node.js, and MongoDB. Passionate about creating efficient, scalable solutions with clean code.
+## 👨‍💻 Professional Summary  
+Experienced Full Stack Developer with **9+ years** of expertise in crafting intuitive user interfaces. Skilled in **React.js, Vue.js, WordPress, and Shopify** with extensive experience in both **service-based projects (4 years)** and **SaaS products (5 years)**. Passionate about building responsive, scalable applications while maintaining high code quality standards.
 
-## 🛠 Technical Skills
+---
 
-- **Frontend**: React.js, Next.js, Redux, Tailwind CSS, Material UI
-- **Backend**: Node.js, Express.js, Next.js API Routes
-- **Databases**: MongoDB, Firebase, PostgreSQL
-- **DevOps**: Vercel, Netlify, AWS Basics
-- **Tools**: Git, GitHub, Postman, Figma
-- **Languages**: JavaScript, TypeScript, Python, C++
+## 🚀 Work Experience  
 
-## 💼 Professional Experience
+### **Lead Full Stack Developer**  
+[Tagshop](https://tagshop.io) | 2023 - Present  
+- Spearheaded development of UGC platform using **React.js & Bootstrap**  
+- Architected complex UGC features with dynamic interfaces  
+- Established coding standards and mentored frontend team  
 
-### **Full Stack Developer (Freelance)**
-_Jan 2022 - Present_
-- Developed and deployed 10+ web applications for clients
-- Built RESTful APIs and integrated third-party services
-- Optimized applications for performance and SEO
+### **Full Stack Developer**  
+[Tagbox](https://tagbox.io) | 2019 - 2023  
+- Led frontend development for complete UGC suite  
+- Optimized interfaces using **React.js & Bootstrap**  
+- Mentored team members on modern frontend practices  
 
-### **Open Source Contributor**
-- Contributed to various open-source projects
-- Maintained personal projects with 50+ GitHub stars
+### **Full Stack Developer**  
+Webcontxt | 2017 - 2019  
+- Developed **WordPress & Shopify** customizations  
+- Built responsive sites using **Bootstrap, PHP, Laravel**  
+- Ensured cross-browser compatibility & performance  
 
-## 🚀 Projects
+---
 
-### **1. Threads Clone (Next.js 13)**
-- Full-stack social media application mimicking Threads
-- Features: Authentication, real-time updates, responsive design
-- **Tech**: Next.js 13, TypeScript, Tailwind CSS, MongoDB
-- [Live Demo](https://threads-clone-gajanand.vercel.app) | [GitHub](https://github.com/Gajanand-Kumawat/threads-clone)
+## 🛠 Technical Skills  
 
-### **2. Netflix GPT (React + Firebase)**
-- Movie recommendation app with AI-powered suggestions
-- **Tech**: React, Firebase Auth, Redux Toolkit, TMDB API
-- [Live Demo](https://netflix-gpt-gajanand.vercel.app) | [GitHub](https://github.com/Gajanand-Kumawat/netflix-gpt)
+**Frontend:**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-### **3. Portfolio Website (Next.js)**
-- Personal portfolio with resume, projects, and contact
-- **Tech**: Next.js, Framer Motion, EmailJS
-- [Live Demo](https://gajanand.vercel.app)
+**Backend/CMS:**  
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
-## 🎓 Education
+**Tools:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
 
-### **Bachelor of Technology in Computer Science**
-_Rajasthan Technical University_  
-_2019 - 2023_  
-CGPA: 7.8/10
+---
 
-## 📜 Certifications
+## 🎓 Education  
+- **MCA** - Suresh Gayan Vihar University (2019)  
+- **BCA** - University of Rajasthan (2013)  
 
-- Next.js & React - The Complete Guide (Udemy)
-- The Web Developer Bootcamp (Udemy)
-- Data Structures & Algorithms (Coding Ninjas)
+---
 
-## 📌 GitHub Stats
+## 🏆 Awards  
+- **Mr. Reliable Award** by Tagbox (2023)  
+- **Performer of the Quarter** (2024)  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gajanand-Kumawat&show_icons=true&theme=radical)
+---
 
-## ✨ Highlights
+## 🌐 Languages  
+- English (Professional)  
+- Hindi (Native)  
 
-- 500+ LeetCode problems solved
-- Active open-source contributor
-- Technical blog writer
+---
+
+## 🎯 Interests  
+⛰️ Trekking | 🏓 Table Tennis | 🏏 Cricket  
+
+---
+
+## GitHub Stats  
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
