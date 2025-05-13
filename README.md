@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/gajanandkankhediya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
   </a>
-  <a href="https://gajanand.vercel.app/portfolio" target="_blank">
+  <a href="https://gajanand.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=for-the-badge&logo=vercel" />
   </a>
 </p>
