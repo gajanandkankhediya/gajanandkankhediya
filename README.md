@@ -17,7 +17,7 @@ Experienced Full Stack Developer with **9+ years** of expertise in crafting intu
 
 ### **Lead Full Stack Developer**  
 [Tagshop](https://tagshop.ai) | 2023 - Present  
-- Spearheaded development of UGC platform using **React.js & Bootstrap**  
+- Spearheaded development of AI UGC Video Ads platform using **Next.js, React.js & Tailwind**  
 - Architected complex UGC features with dynamic interfaces  
 - Established coding standards and mentored frontend team  
 
@@ -41,7 +41,7 @@ Webcontxt | 2017 - 2019
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Vue.js](https://img.shields.io/badge/TypeScript.js-3178c6?style=flat&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/TypeScript.js-3178c6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Next.js-171717?style=flat&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
