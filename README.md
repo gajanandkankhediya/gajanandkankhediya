@@ -17,7 +17,7 @@
 
 
 ## 👨‍💻 Professional Summary  
-Experienced Full Stack Developer with **9+ years** of expertise in crafting intuitive user interfaces. Skilled in **React.js, Vue.js, WordPress, and Shopify** with extensive experience in both **service-based projects (4 years)** and **SaaS products (5 years)**. Passionate about building responsive, scalable applications while maintaining high code quality standards.
+Experienced Full Stack Developer with **9+ years** of expertise in crafting intuitive user interfaces. Skilled in **React.js, Next.js, Vue.js, WordPress, and Shopify** with extensive experience in both **service-based projects (4 years)** and **SaaS products (5 years)**. Passionate about building responsive, scalable applications while maintaining high code quality standards.
 
 ---
 
@@ -31,7 +31,7 @@ Experienced Full Stack Developer with **9+ years** of expertise in crafting intu
 
 ### **Full Stack Developer**  
 [Tagbox](https://tagbox.com) | 2019 - 2023  
-- Led frontend development for complete UGC suite  
+- Lead frontend development for complete UGC suite  
 - Optimized interfaces using **React.js & Bootstrap**  
 - Mentored team members on modern frontend practices  
 
