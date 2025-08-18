@@ -21,28 +21,6 @@ Experienced Frontend Developer with **9+ years** of expertise in crafting intuit
 
 ---
 
-## 🚀 Work Experience  
-
-### **Frontend Developer**  
-[Tagshop](https://tagshop.ai) | 2023 - Present  
-- Spearheaded development of AI UGC Video Ads platform using **Next.js, React.js & Tailwind**  
-- Architected complex UGC features with dynamic interfaces  
-- Established coding standards and mentored frontend team  
-
-### **Frontend Developer**  
-[Tagbox](https://tagbox.com) | 2019 - 2023  
-- Lead frontend development for complete UGC suite  
-- Optimized interfaces using **React.js & Bootstrap**  
-- Mentored team members on modern frontend practices  
-
-### **Web Designer**  
-Webcontxt | 2017 - 2019  
-- Developed **WordPress & Shopify** customizations  
-- Built responsive sites using **Bootstrap, PHP, Laravel**  
-- Ensured cross-browser compatibility & performance  
-
----
-
 ## 🛠 Technical Skills  
 
 **Frontend:**  
@@ -66,6 +44,28 @@ Webcontxt | 2017 - 2019
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat&logo=bitbucket&logoColor=white)
+
+---
+
+## 🚀 Work Experience  
+
+### **Frontend Developer**  
+[Tagshop](https://tagshop.ai) | 2023 - Present  
+- Spearheaded development of AI UGC Video Ads platform using **Next.js, React.js & Tailwind**  
+- Architected complex UGC features with dynamic interfaces  
+- Established coding standards and mentored frontend team  
+
+### **Frontend Developer**  
+[Tagbox](https://tagbox.com) | 2019 - 2023  
+- Lead frontend development for complete UGC suite  
+- Optimized interfaces using **React.js & Bootstrap**  
+- Mentored team members on modern frontend practices  
+
+### **Web Designer**  
+Webcontxt | 2017 - 2019  
+- Developed **WordPress & Shopify** customizations  
+- Built responsive sites using **Bootstrap, PHP, Laravel**  
+- Ensured cross-browser compatibility & performance  
 
 ---
 
