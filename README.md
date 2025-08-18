@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gajanand Kankhediya 👋</h1>
-<h3 align="center">Full Stack Developer | 9+ Years Experience | SaaS & Service Projects</h3>
+<h3 align="center">Frontend Developer | 9+ Years Experience | SaaS & Service Projects</h3>
 
 <p align="center">
   📍 Jaipur, Rajasthan, India • 📞 +91-9680864041 • 📧 gajanand.vrm@gmail.com  
@@ -23,19 +23,19 @@ Experienced Full Stack Developer with **9+ years** of expertise in crafting intu
 
 ## 🚀 Work Experience  
 
-### **Lead Full Stack Developer**  
+### **Frontend Developer**  
 [Tagshop](https://tagshop.ai) | 2023 - Present  
 - Spearheaded development of AI UGC Video Ads platform using **Next.js, React.js & Tailwind**  
 - Architected complex UGC features with dynamic interfaces  
 - Established coding standards and mentored frontend team  
 
-### **Full Stack Developer**  
+### **Frontend Developer**  
 [Tagbox](https://tagbox.com) | 2019 - 2023  
 - Lead frontend development for complete UGC suite  
 - Optimized interfaces using **React.js & Bootstrap**  
 - Mentored team members on modern frontend practices  
 
-### **Full Stack Developer**  
+### **Web Designer**  
 Webcontxt | 2017 - 2019  
 - Developed **WordPress & Shopify** customizations  
 - Built responsive sites using **Bootstrap, PHP, Laravel**  
