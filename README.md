@@ -60,7 +60,7 @@ Experienced Frontend Developer with **9+ years** of expertise in crafting intuit
 ### **Web Designer**  
 Webcontxt | 2017 - 2019  
 - Developed Multiple **WordPress, Shopify & Laravel** Projects  
-- Built Dynamic and Responsive sites using **Bootstrap & WordPress** with cross-browser compatibility & high performance
+- Built Multiple Dynamic and Responsive sites using **Bootstrap & WordPress** with cross-browser compatibility & high performance
 
 ---
 
