@@ -55,7 +55,7 @@ Experienced Frontend Developer with **9+ years** of expertise in crafting intuit
 
 ### **Frontend Developer**  
 **[Tagbox](https://tagbox.com)** | 2019 - 2023  
-- Lead frontend development for complete UGC suite  
+- frontend development for complete UGC suite  
 - Optimized interfaces using **React.js & Bootstrap**  
 - Mentored team members on modern frontend practices  
 
