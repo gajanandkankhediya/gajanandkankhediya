@@ -29,7 +29,6 @@ Experienced Frontend Developer with **9+ years** of expertise in crafting intuit
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/TypeScript.js-3178c6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Next.js-171717?style=flat&logo=next.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
@@ -61,9 +60,8 @@ Experienced Frontend Developer with **9+ years** of expertise in crafting intuit
 
 ### **Web Designer**  
 Webcontxt | 2017 - 2019  
-- Developed **WordPress & Shopify** customizations  
-- Built responsive sites using **Bootstrap, PHP, Laravel**  
-- Ensured cross-browser compatibility & performance  
+- Developed Multiple **WordPress, Shopify & Laravel** Projects  
+- Built Dynamic and Responsive sites using **Bootstrap & WordPress** with cross-browser compatibility & high performance
 
 ---
 
