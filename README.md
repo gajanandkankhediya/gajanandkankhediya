@@ -48,7 +48,7 @@ Experienced Frontend Developer with **9+ years** of expertise in crafting intuit
 
 ### **Frontend Developer**  
 **[Tagshop](https://tagshop.ai)** | 2023 - Present  
-- Developed product frontends using **React.js & Tailwind**, leveraging AI tools to accelerate delivery timelines
+- Developed product frontends using **React.js & Tailwind**, leveraging **AI tools** to accelerate delivery timelines
 - Built optimized, high-performance website interfaces with **Headless WordPress, Next.js & Tailwind**
 
 ### **Frontend Developer**  
@@ -60,7 +60,7 @@ Experienced Frontend Developer with **9+ years** of expertise in crafting intuit
 ### **Web Designer**  
 Webcontxt | 2017 - 2019  
 - Developed Multiple **WordPress, Shopify & Laravel** Projects  
-- Built Multiple Dynamic and Responsive sites using **Bootstrap & WordPress** with cross-browser compatibility & high performance
+- Built Multiple **Dynamic and Responsive** sites using **Bootstrap & WordPress** with cross-browser compatibility & high performance
 
 ---
 
