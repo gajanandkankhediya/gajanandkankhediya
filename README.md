@@ -84,4 +84,4 @@ Webcontxt | 2017 - 2019
 ---
 
 ## 🎯 Interests  
-⛰️ Trekking | 🏓 Table Tennis | 🏏 Cricket  
+⛰️ Trekking | 🏓 Table Tennis
