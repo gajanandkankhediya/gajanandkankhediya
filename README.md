@@ -33,7 +33,7 @@ Experienced Frontend Developer with **9+ years** of expertise in crafting intuit
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
-**Backend/CMS:**  
+**Basic knowledge of backend/CMS:**  
 ![WordPress](https://img.shields.io/badge/WordPress-000000?style=flat&logo=wordpress&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
