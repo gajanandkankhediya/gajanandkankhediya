@@ -49,13 +49,13 @@ Experienced Frontend Developer with **9+ years** of expertise in crafting intuit
 ## 🚀 Work Experience  
 
 ### **Frontend Developer**  
-#[Tagshop](https://tagshop.ai) | 2023 - Present  
+**[Tagshop](https://tagshop.ai)** | 2023 - Present  
 - Spearheaded development of AI UGC Video Ads platform using **Next.js, React.js & Tailwind**  
 - Architected complex UGC features with dynamic interfaces  
 - Established coding standards and mentored frontend team  
 
 ### **Frontend Developer**  
-#[Tagbox](https://tagbox.com) | 2019 - 2023  
+**[Tagbox](https://tagbox.com)** | 2019 - 2023  
 - Lead frontend development for complete UGC suite  
 - Optimized interfaces using **React.js & Bootstrap**  
 - Mentored team members on modern frontend practices  
