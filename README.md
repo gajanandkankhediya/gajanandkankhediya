@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gajanand Kankhediya 👋</h1>
-<h3 align="center">Frontend Developer | React, Next.js, JavaScript, WordPress | 9+ Years in SaaS & Service-Based Projects</h3>
+<h3 align="center">Frontend Developer | React, Next.js, WordPress | 9+ Years in SaaS & Service-Based Projects</h3>
 
 <p align="center">
   📍 Jaipur, Rajasthan, India • 📞 +91-9680864041 • 📧 gajanand.vrm@gmail.com  
