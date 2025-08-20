@@ -30,7 +30,6 @@ Experienced Frontend Developer with **9+ years** of expertise in crafting intuit
 ![Vue.js](https://img.shields.io/badge/TypeScript.js-3178c6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Next.js-171717?style=flat&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 
@@ -50,13 +49,13 @@ Experienced Frontend Developer with **9+ years** of expertise in crafting intuit
 ## 🚀 Work Experience  
 
 ### **Frontend Developer**  
-[Tagshop](https://tagshop.ai) | 2023 - Present  
+#[Tagshop](https://tagshop.ai) | 2023 - Present  
 - Spearheaded development of AI UGC Video Ads platform using **Next.js, React.js & Tailwind**  
 - Architected complex UGC features with dynamic interfaces  
 - Established coding standards and mentored frontend team  
 
 ### **Frontend Developer**  
-[Tagbox](https://tagbox.com) | 2019 - 2023  
+#[Tagbox](https://tagbox.com) | 2019 - 2023  
 - Lead frontend development for complete UGC suite  
 - Optimized interfaces using **React.js & Bootstrap**  
 - Mentored team members on modern frontend practices  
