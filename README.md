@@ -17,7 +17,7 @@
 
 
 ## 👨‍💻 Professional Summary  
-Experienced Frontend Developer with **9+ years** of expertise in crafting intuitive user interfaces. Skilled in **React.js, Next.js, Vue.js, WordPress, and Shopify** with extensive experience in both **service-based projects (4 years)** and **SaaS products (5 years)**. Passionate about building responsive, scalable applications while maintaining high code quality standards.
+Experienced Frontend Developer with **9+ years** of expertise in crafting intuitive user interfaces. Skilled in **React.js, Next.js, WordPress, and Shopify** with extensive experience in both **service-based projects (4 years)** and **SaaS products (5 years)**. Passionate about building responsive, scalable applications while maintaining high code quality standards.
 
 ---
 
@@ -48,15 +48,14 @@ Experienced Frontend Developer with **9+ years** of expertise in crafting intuit
 
 ### **Frontend Developer**  
 **[Tagshop](https://tagshop.ai)** | 2023 - Present  
-- Spearheaded development of AI UGC Video Ads platform using **Next.js, React.js & Tailwind**  
-- Architected complex UGC features with dynamic interfaces  
-- Established coding standards and mentored frontend team  
+- Developed product frontends using **React.js & Tailwind**, leveraging AI tools to accelerate delivery timelines
+- Built optimized, high-performance website interfaces with **Headless WordPress, Next.js & Tailwind**
 
 ### **Frontend Developer**  
 **[Tagbox](https://tagbox.com)** | 2019 - 2023  
-- frontend development for complete UGC suite  
-- Optimized interfaces using **React.js & Bootstrap**  
-- Mentored team members on modern frontend practices  
+- Product frontend development using **React.js & Bootstrap**
+- Optimized website interfaces and improved performance with **WordPress & Bootstrap**
+- Mentored and guided team members on modern frontend best practices
 
 ### **Web Designer**  
 Webcontxt | 2017 - 2019  
